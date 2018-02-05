@@ -1,0 +1,4 @@
+#Mon Feb 05 14:34:43 CST 2018
+base.0=C\:\\Users\\yxion\\Desktop\\New folder\\yxiong4-SubBook\\yxiong4SubBook\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
